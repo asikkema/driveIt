@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+	package="nl.sikkema.driveit" android:versionCode="1"
+	android:versionName="1.0">
+	<application android:icon="@drawable/icon" android:label="@string/app_name" android:persistent="true">
+
+		<activity android:name="StudentSelect" android:label="@string/app_name">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+	<activity android:name="NewStudent" android:label="@string/new_student"></activity>
+<activity android:label="@string/student_details" android:name="StudentDetails"></activity>
+</application>
+</manifest> 

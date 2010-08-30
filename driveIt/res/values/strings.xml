@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="saveNewStudent">Add new student</string>
+    <string name="birthday">Birthday</string>
+    <string name="phonenumber">Phone number</string>
+    <string name="lastname">Last name</string>
+    <string name="firstname">First name</string>
+    <string name="student_details">Student details</string>
+    <string name="add_new_student">New Student</string>
+    <string name="new_student">New Student</string>
+    <string name="hello">Hello World, DriveIt!</string>
+    <string name="app_name">DriveIt</string>
+</resources>
